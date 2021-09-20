@@ -6,4 +6,5 @@ List rencana belajar bahasa pemograman
   *Bootstrap
 - Javascript
   *ReactJS
+  *AngularJS
 -Perdalam Front End
