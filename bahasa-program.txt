@@ -2,4 +2,7 @@ List rencana belajar bahasa pemograman
 - HTML
 - CSS
 - CSS3
+  Framework
+  *Bootstrap
 - Javascript
+  *ReactJS
